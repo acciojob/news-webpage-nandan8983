@@ -1,16 +1,14 @@
 /*  your css code here. If applicable */
-.header{
+header{
 	background-color:#011e29;
 	padding:15px;
+	color:#ffffff;
+	text-align:center;
 }
 body{
 	background-color:#f5f5f5;
 }
-h1{
-	color:#ffffff;
-	text-align:center;
-	
-}
+
 .pictorial-news-section{
 	width:25%;
 	height:auto;
